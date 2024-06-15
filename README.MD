@@ -5,3 +5,6 @@
 - Define Structs: Demonstrates how to define and nest Rust structs.
 - Serialization: Shows how to serialize Rust structs into JSON using serde.
 - Deserialization: Shows how to deserialize JSON strings back into Rust structs.
+
+## To Run
+cargo run
